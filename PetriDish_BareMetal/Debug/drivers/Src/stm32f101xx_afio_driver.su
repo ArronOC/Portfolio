@@ -1,0 +1,2 @@
+../drivers/Src/stm32f101xx_afio_driver.c:22:6:AFIO_PeriEn	16	static
+../drivers/Src/stm32f101xx_afio_driver.c:48:6:AFIO_REMAP	4	static

@@ -1,0 +1,8 @@
+../drivers/Src/ADXL343_Accel.c:24:16:ADXL343_Init	32	static
+../drivers/Src/ADXL343_Accel.c:90:16:ADXL343_EnDataReadyInt	32	static
+../drivers/Src/ADXL343_Accel.c:108:16:ADXL343_DisableInterrupts	32	static
+../drivers/Src/ADXL343_Accel.c:132:16:ADXL343_CalibrateFlat	56	static
+../drivers/Src/ADXL343_Accel.c:213:16:ADXL343_ReadData	40	static
+../drivers/Src/ADXL343_Accel.c:241:6:ADXL343_CalcGForce	32	static
+../drivers/Src/ADXL343_Accel.c:297:6:ADXL343_PitchRollCalc	48	static
+../drivers/Src/ADXL343_Accel.c:323:9:ADXL343_OffsetComplementCalc	24	static

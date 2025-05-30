@@ -1,0 +1,15 @@
+../drivers/Src/stm32f101xx_i2c_driver.c:28:13:I2C_GenerateSTARTCondition	1
+../drivers/Src/stm32f101xx_i2c_driver.c:44:6:I2C_GenerateSTOPCondition	1
+../drivers/Src/stm32f101xx_i2c_driver.c:62:13:I2C_ExecuteAddressPhase	2
+../drivers/Src/stm32f101xx_i2c_driver.c:88:13:I2C_ClearADDRFlag	2
+../drivers/Src/stm32f101xx_i2c_driver.c:118:6:I2C_PeriClockControl	6
+../drivers/Src/stm32f101xx_i2c_driver.c:153:6:I2C_EnorDI	2
+../drivers/Src/stm32f101xx_i2c_driver.c:181:6:I2C_Init	7
+../drivers/Src/stm32f101xx_i2c_driver.c:318:6:I2C_DeInit	2
+../drivers/Src/stm32f101xx_i2c_driver.c:340:10:RCC_GetPCLK1_Value	14
+../drivers/Src/stm32f101xx_i2c_driver.c:443:17:I2C_MasterSendData	17
+../drivers/Src/stm32f101xx_i2c_driver.c:525:16:I2C_MasterReceiveData	14
+../drivers/Src/stm32f101xx_i2c_driver.c:610:17:I2C_Mem_MasterSendData	19
+../drivers/Src/stm32f101xx_i2c_driver.c:703:16:I2C_Mem_MasterReceiveData	23
+../drivers/Src/stm32f101xx_i2c_driver.c:823:9:I2C_GetFlagStatus	2
+../drivers/Src/stm32f101xx_i2c_driver.c:846:6:I2C_ER_IRQHandling	11

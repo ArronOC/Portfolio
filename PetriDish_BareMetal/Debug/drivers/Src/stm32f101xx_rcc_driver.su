@@ -1,0 +1,5 @@
+../drivers/Src/stm32f101xx_rcc_driver.c:21:6:RCC_Init_SysClk	24	static
+../drivers/Src/stm32f101xx_rcc_driver.c:78:6:RCC_Init_AHBClk	16	static
+../drivers/Src/stm32f101xx_rcc_driver.c:95:6:RCC_Init_PCLK1	16	static
+../drivers/Src/stm32f101xx_rcc_driver.c:112:6:RCC_Init_PCLK2	16	static
+../drivers/Src/stm32f101xx_rcc_driver.c:130:6:RCC_Init_ADCCLK	16	static

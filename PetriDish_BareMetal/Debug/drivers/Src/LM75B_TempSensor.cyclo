@@ -1,0 +1,2 @@
+../drivers/Src/LM75B_TempSensor.c:22:16:LM75B_POR	6
+../drivers/Src/LM75B_TempSensor.c:82:7:LM75B_ReadTemp	3
